@@ -1,0 +1,9 @@
+.Show-when-hover {
+    z-index: 10;
+    overflow: hidden;
+}
+
+.Show-when {
+    z-index: 10;
+    overflow: hidden;
+}

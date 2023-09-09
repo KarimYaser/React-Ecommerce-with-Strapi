@@ -1,0 +1,4 @@
+First Name : Karim
+Last Name : Yasser
+email : ecommerce@admin.com
+password : Ecommerce12345
