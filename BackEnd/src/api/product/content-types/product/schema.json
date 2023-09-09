@@ -36,7 +36,7 @@
       "type": "decimal",
       "required": true
     },
-    "productCategory": {
+    "category": {
       "type": "enumeration",
       "enum": [
         "men",

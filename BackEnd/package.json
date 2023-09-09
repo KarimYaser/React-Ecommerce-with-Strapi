@@ -1,5 +1,5 @@
 {
-  "name": "back-end",
+  "name": "backend",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -10,20 +10,21 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@strapi/plugin-i18n": "4.14.0-alpha.0",
-    "@strapi/plugin-users-permissions": "4.14.0-alpha.0",
-    "@strapi/provider-upload-cloudinary": "^4.14.0-alpha.0",
-    "@strapi/strapi": "4.14.0-alpha.0",
-    "pg": "8.8.0"
+    "@strapi/plugin-i18n": "4.10.2",
+    "@strapi/plugin-users-permissions": "4.10.2",
+    "@strapi/provider-upload-cloudinary": "^4.10.2",
+    "@strapi/strapi": "4.10.2",
+    "pg": "8.8.0",
+    "strapi": "^3.6.11"
   },
   "author": {
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "4d7461e8-e9e4-4fd4-af47-6e7bbfcef815"
+    "uuid": "ae9c1c01-f629-4d26-9529-bb0ca844bcb8"
   },
   "engines": {
-    "node": ">=16.0.0 <=20.x.x",
+    "node": ">=14.19.1 <=18.x.x",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
